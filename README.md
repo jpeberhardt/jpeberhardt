@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋, i'm João P. Eberhardt</br>
+
+
 
 <!--
 **jpeberhardt/jpeberhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
