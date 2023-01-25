@@ -21,9 +21,9 @@
 </br>
 
 
-![João P. Eberhardt's GitHub stats](https://github-readme-stats-red-five-33.vercel.app/api?username=jpeberhardt&show_icons=true&theme=gruvbox) 
-
 ![Top Langs](https://github-readme-stats-red-five-33.vercel.app/api/top-langs/?username=jpeberhardt&langs_count=10&layout=compact&theme=tokyonight)
+
+![João P. Eberhardt's GitHub stats](https://github-readme-stats-red-five-33.vercel.app/api?username=jpeberhardt&show_icons=true&theme=gruvbox) 
 
 
 ### Find me elsewhere 🌎
