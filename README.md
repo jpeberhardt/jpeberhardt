@@ -1,9 +1,22 @@
-### Hey there, I'm João P. Eberhardt 👋 </br>
+## Hey there, I'm João P. Eberhardt 👋  
+
+- 📚 
+
+- 📌 
+
+- 💻 
+
+- 🪐 
+
+- 💣 
+
+- 🌎 
+
+  
+</br>
 
 
-
-
-## 🛠 &nbsp;Tech Stack
+## 🛠 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -21,9 +34,10 @@
 </br>
 
 
+![João P. Eberhardt's GitHub stats](https://github-readme-stats-red-five-33.vercel.app/api?username=jpeberhardt&show_icons=true&theme=gruvbox)
+
 ![Top Langs](https://github-readme-stats-red-five-33.vercel.app/api/top-langs/?username=jpeberhardt&langs_count=10&layout=compact&theme=tokyonight)
 
-![João P. Eberhardt's GitHub stats](https://github-readme-stats-red-five-33.vercel.app/api?username=jpeberhardt&show_icons=true&theme=gruvbox) 
 
 
 ### Find me elsewhere 🌎
