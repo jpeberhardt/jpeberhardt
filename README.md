@@ -40,11 +40,16 @@
 
 
 
-### Find me elsewhere 🌎
-
--- [Instagram](https://instagram.com/jpeberhardt) </br>
--- [LinkedIn](https://www.linkedin.com/in/joãoeberhardt/) </br>
+### Find me elsewhere ✈️
 
 
+<a href="https://instagram.com/jpeberhardt">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt"Instagram" height="auto" width="50" style="border-radius:50%">
+  </a>
+<a href="https://www.linkedin.com/in/joãoeberhardt/">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt"Instagram" height="auto" width="50" style="border-radius:50%">
+  </a>
+  
+  
 
 </br> 🇧🇷 Born in Porto Alegre, Brazil </br>
