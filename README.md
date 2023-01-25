@@ -2,6 +2,7 @@
 
 
 
+
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -17,9 +18,19 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 -->
 
-### Find me here 🔽
+</br>
 
-[Instagram](https://instagram.com/jpeberhardt) <br>
-[LinkedIn](https://www.linkedin.com/in/joãoeberhardt/) <br>
+![Top Langs](https://github-readme-stats-red-five-33.vercel.app/api/top-langs/?username=jpeberhardt&langs_count=10&layout=compact&theme=tokyonight)
+</br>
+![João P. Eberhardt's GitHub stats](https://github-readme-stats-red-five-33.vercel.app/api?username=jpeberhardt&show_icons=true&theme=gruvbox) 
 
-🇧🇷 Born in Porto Alegre, Brazil <br>
+
+
+### Find me elsewhere 🌎
+
+-- [Instagram](https://instagram.com/jpeberhardt) </br>
+-- [LinkedIn](https://www.linkedin.com/in/joãoeberhardt/) </br>
+
+
+
+</br> 🇧🇷 Born in Porto Alegre, Brazil </br>
