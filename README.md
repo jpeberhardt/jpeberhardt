@@ -7,16 +7,7 @@
 
 - 💻 Looking to collaborate on awesome projects
 
-- 🪐 Interested in making new friends
-
 - 💣 Never stop learning!
-
-- ⏳ Hobbies: Games, Gym and Books...
-      
-        if (Hobbies) 
-          {
-          return new Error('need more time ⏱️');
-              }
               
 </br>
 
