@@ -22,10 +22,10 @@
 
 <br><br>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/jpeberhardt">
-  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpeberhardt&layout=donut&theme=react&show_icons=true"/>
-  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=jpeberhardt&theme=react&show_icons=true"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpeberhardt&layout=donut&theme=react&show_icons=true"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=jpeberhardt&theme=react&show_icons=true"/>
 </a>
 </p>
 
