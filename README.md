@@ -1,11 +1,11 @@
 ## 🙋‍♂ Sup, i'm João Pedro Eberhardt. 
 <img src="https://github.com/jpeberhardt/eberhardt/blob/main/Developer%20activity-bro.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
-### Some things I'm working on at the moment ⤵️
+### Some things I'm working at the moment ⤵️
 <br>
 
-- 📚 Working with JavaScript, React.
-- 🎯 Targeting to become a Full Stack developer.
+- 📚 At moment i'm 
+- 🎯 Targeting to become a Back-End Developer and maybe a Full Stack.
 - 💻 Willing to participate and collaborate in projects.
 
 <br><br><br><br>
@@ -22,16 +22,6 @@
   <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title = "Typescipt"/></code>
 </p>
 
-<br><br>
-
-##
-<br>
-<p align="left">
-<a href="https://github.com/jpeberhardt">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpeberhardt&layout=donut&theme=react&show_icons=true"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=jpeberhardt&theme=react&show_icons=true"/>
-</a>
-</p>
 
 
 
