@@ -4,7 +4,7 @@
 ### Some things I'm working at the moment ⤵️
 <br>
 
-- 📚 At moment i'm 
+- 📚 Currently, I'm turning to back-end focused technologies and languages, such as Java.
 - 🎯 Targeting to become a Back-End Developer and maybe a Full Stack.
 - 💻 Willing to participate and collaborate in projects.
 
